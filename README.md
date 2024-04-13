@@ -1,5 +1,7 @@
 # CSS: Colors
 
+![image](https://github.com/luiscoco/CSS_Colors/assets/32194879/910637e3-68bf-450d-b947-1df0e3b76a1c)
+
 ```html
 <!DOCTYPE html>
 <html>
